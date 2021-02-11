@@ -17,20 +17,33 @@
 
 .titre {
     display: inline-block;
-    font-size: 30px;
+    font-size: 40px;
+    margin-left: 30vw;
+    margin-right:30vw;
 }
 
 .titre-2 {
     display: inline-block;
+    margin-top: 3vw;
     font-size: 20px;
-    margin-top: 8vw; 
+    font-family: DM Sans;
+    background-color: #453734;
+    padding: 10px;
+    color: #ffffff
+   
 }
 
 .paragraphe {
     margin-top: 40px;
     font-size: 15px
 }
-
+.carte-image-1 {
+    width: 45vw;
+    display: block;
+    align: center; 
+    margin-left: 12vw;
+    margin-right: 10vw;
+}
 .carte {
     overflow: hidden;
     margin-top: 3vw;
@@ -38,16 +51,6 @@
 
 .carte, .carte-image, .carte-description {
     width: 27vw;
-}
-.carte-image-1 {
-    width: 35vw;
-    display: block;
-    align: center; 
-}
-
-.carte-image {
-    /* https://stackoverflow.com/questions/7774814/remove-white-space-below-image */
-    display: block;
 }
 
 .galerie {
