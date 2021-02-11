@@ -6,13 +6,12 @@
     margin-top: 8vw;  
 }
 
-/* commentaire d&acute;une ligne */
 
 .titre, .paragraphe, .carte-description {
     font-family: DM Sans;
     background-color: #453734;
     padding: 10px;
-    color: #ffffff
+    color: #ffffff; 
 }
 
 .titre {
@@ -30,7 +29,6 @@
     background-color: #453734;
     padding: 10px;
     color: #ffffff
-   
 }
 
 .paragraphe {
@@ -41,8 +39,17 @@
     width: 45vw;
     display: block;
     align: center; 
-    margin-left: 12vw;
+    margin-left: 10vw;
     margin-right: 10vw;
+}
+.carte-description-1 {
+    font-family: DM Sans;
+    background-color: #453734;
+    padding: 10px;
+    color: #ffffff;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    align: center;
 }
 .carte {
     overflow: hidden;
