@@ -1,0 +1,53 @@
+/* CSS Projet Final*/
+.main {
+    background-color: #000000;
+}
+
+.navbar {
+    overflow: hidden;
+
+}
+.navbar a { /* HOME BUTTON */
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 8vw; 
+    padding: 5px;   
+    color: #ffffff; 
+    font-family: DM Sans;
+}
+
+/* titre */
+.titre {
+    display: inline-block;
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-bottom: 2vw;
+    margin-left: 32vw;
+    margin-right:25vw;
+    padding: 10px;
+    color: #ffffff; 
+}
+
+.sous-titre1 {
+    display: inline-block;
+    font-family: DM Sans;
+    margin-left: 37vw;
+    margin-right:37vw;
+    font-size: 30px;
+    padding: 10px;
+    color: #ffffff; 
+} 
+
+.paragraphe {
+    margin-left: 12vw;
+    margin-right:12vw;
+	font-family: DM Sans;
+	font-size: 20px;
+	line-height: 1.3;
+	letter-spacing: 0px;
+	word-spacing: 1px;
+	text-align: justify;
+	color: #ffffff;
+}
